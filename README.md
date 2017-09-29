@@ -41,6 +41,10 @@ sudo npm install webpack-dev-server webpack babel-core babel-loader babel-preset
 
 # from stackoverflow etc.
 sudo npm install react react-dom
+
+sudo npm install material-ui
+
+
 ```
 
 To
