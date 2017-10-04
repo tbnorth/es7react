@@ -32,6 +32,9 @@ sudo npm install babel-polyfill --save
 sudo npm install babel-runtime --save
 sudo npm install babel-plugin-transform-runtime --save-dev
 
+# to import ES7 code
+sudo npm i babel-plugin-transform-class-properties --save-dev
+
 # not needed?
 # sudo apt install nodejs-legacy
 
