@@ -38,7 +38,7 @@ sudo npm i babel-plugin-transform-class-properties --save-dev
 # not needed?
 # sudo apt install nodejs-legacy
 
-# from [Knel2015b]
+# from [Knel2015b], NOTE this is a long slow step
 sudo npm install webpack-dev-server -g
 sudo npm install webpack-dev-server webpack babel-core babel-loader babel-preset-es2015 babel-polyfill
 
